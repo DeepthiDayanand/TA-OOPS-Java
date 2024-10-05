@@ -25,7 +25,7 @@ This repository contains the courework I made as a Teaching Assistant for the 6t
 Use case modeling in Java is a technique used to capture and define the functional requirements of a system from the perspective of its users (actors). It describes the interactions between external entities (such as users or other systems) and the system to achieve a specific goal.
 Use case diagrams, which often accompany this modeling, visually represent these interactions using actors, use cases (actions performed by the system), and the relationships between them. This process helps guide the system design and development phases in Java applications by ensuring a clear understanding of user needs and system behaviors.
 
-**Problem statement and solution for use case modeling can be found [here](https://github.com/DeepthiDayanand/OOADJ_TA_Coursework/tree/master/Lab%201)**
+**Problem statement and solution for use case modeling can be found [here](/Lab-1)**
 
 <!-- TOC --><a name="lab-2-class-diagrams"></a>
 ## Class Diagrams
