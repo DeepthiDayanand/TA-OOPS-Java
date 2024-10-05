@@ -25,14 +25,14 @@ This repository contains the courework I made as a Teaching Assistant for the 6t
 Use case modeling in Java is a technique used to capture and define the functional requirements of a system from the perspective of its users (actors). It describes the interactions between external entities (such as users or other systems) and the system to achieve a specific goal.
 Use case diagrams, which often accompany this modeling, visually represent these interactions using actors, use cases (actions performed by the system), and the relationships between them. This process helps guide the system design and development phases in Java applications by ensuring a clear understanding of user needs and system behaviors.
 
-> **Problem statement and solution for use case modeling can be found [here](/../ProblemStatement_Explanation_Lab1.pdf)**
+> **Problem statement and solution for use case modeling can be found [here](/docs/use_case_diagram.pdf)**
 
 <!-- TOC --><a name="lab-2-class-diagrams"></a>
 ## Class Diagrams
 
 Class diagrams in Java are a type of UML (Unified Modeling Language) diagram that visually represent the structure of a Java application by illustrating the classes, their attributes, methods, and the relationships between them. They help in the design and organization of object-oriented systems by providing a blueprint of how the system's classes are structured and how they interact.
 
-> **Problem statement and solution for class diagram can be found [here](/../ProblemStatement_Lab2.docx)**
+> **Problem statement and solution for class diagram can be found [here](/docs/class_diagram.docx)**
 
 
 <!-- TOC --><a name="lab-3-activity-and-state-diagrams"></a>
@@ -43,14 +43,14 @@ Class diagrams in Java are a type of UML (Unified Modeling Language) diagram tha
 
 Activity diagrams in Java are a type of UML (Unified Modeling Language) diagram that visually represent the flow of control or data within a system, specifically focusing on the sequence of activities or steps in a process. They are particularly useful for modeling the dynamic aspects of a Java application, such as workflows, algorithms, or business processes. Activity diagrams are useful for both high-level system design and detailed algorithmic behavior in Java applications, allowing developers to better understand and communicate the flow of activities.
 
-> **Problem statement and solution for activity diagrams can be found [here](/../ActivityDiagram_Lab3.docx)**
+> **Problem statement and solution for activity diagrams can be found [here](/docs/activity_diagram.docx)**
 
 <!-- TOC --><a name="state-diagram-problem-statement"></a>
 ### State Diagrams 
 
 State diagrams in Java are a type of UML (Unified Modeling Language) diagram used to represent the states and transitions of an object within a Java application. They visually depict how an object behaves in response to events and how it transitions from one state to another. State diagrams are particularly useful for modeling the lifecycle of objects or components that have distinct states, such as a connection, process, or user session.
 
-> **Problem statement and solution for state diagrams can be found [here](/../StateDiagram_Lab3.docx)**
+> **Problem statement and solution for state diagrams can be found [here](/docs/state_diagram.docx)**
 
 <!-- TOC --><a name="lab-5-method-overloading-constructor-overloading-composition-and-aggregation"></a>
 ## Method Overloading, Constructor Overloading, Composition, and Aggregation
@@ -136,7 +136,7 @@ Multithreading in Java allows multiple threads to execute concurrently within a 
 ### 2. Serialization 
 Serialization in Java is the process of converting an object into a byte stream, so it can be easily saved to a file or transmitted over a network. The reverse process, deserialization, reconstructs the object from the byte stream, allowing persistence and communication of object states across platforms.
 
-> **The problem statement for multithreading and serialization in java can be found [here](/../Lab8_ProblemStatement.docx)**
+> **The problem statement for multithreading and serialization in java can be found [here](/docs/multithreading_serialization.docx)**
 
 ## MVC Architecture
 
@@ -149,3 +149,5 @@ MVC (Model-View-Controller) architecture is a design pattern commonly used in so
 3. **Controller**: Acts as an intermediary between the Model and the View. It processes user inputs from the View, updates the Model accordingly, and may trigger changes in the View. The Controller directs the flow of the application based on user interactions.
 
 In Java, the MVC pattern is widely used in frameworks like Spring MVC and JavaFX to build web and desktop applications. The key advantage of MVC is that it promotes a clear separation of concerns, which enhances maintainability, scalability, and testability of the code.
+
+> **The required mini project for the course that uses MVC can be found [here](docs/mvc_assignment.docx)**
