@@ -10,20 +10,9 @@ This repository contains the courework I made as a Teaching Assistant for the 6t
    * [Class Diagrams](#lab-2-class-diagrams)
    * [Activity and State Diagrams](#lab-3-activity-and-state-diagrams)
    * [Method Overloading, Constructor Overloading, Composition, and Aggregation](#lab-5-method-overloading-constructor-overloading-composition-and-aggregation)
-      + [Method Overloading](#method-overloading-problem-statement)
-      + [Constructor Overloading](#constructor-overloading-problem-statement)
-      + [Composition and Aggregation](#composition-and-aggregation-problem-statement)
    * [Inheritance and Interfaces](#lab-6-inheritance-and-interfaces)
-      + [Inheritance](#inheritance-problem-statement)
-      + [Interfaces](#interfaces-problem-statement)
    * [Abstract Classes, ArrayLists, Linked Lists, and Stacks](#lab-7-abstract-classes-arraylists-linked-lists-and-stacks)
-      + [Abstract Classes](#abstract-classes-problem-statement)
-      + [ArrayLists](#arraylists-problem-statement)
-      + [Linked Lists](#linked-lists-problem-statement)
-      + [Stacks](#stacks-problem-statement)
    * [Multithreading and Serialization](#lab-8-multithreading-and-serialization)
-      + [Multithreading](#multithreading-problem-statement)
-      + [Serialization](#serialization-problem-statement)
    * [MVC Architecture](#lab-9-mvc-architecture)
 
 <!-- TOC end -->
@@ -107,28 +96,28 @@ Inheritance in Java allows a class to inherit properties and methods from anothe
 ## Abstract Classes, ArrayLists, Linked Lists, and Stacks
 
 <!-- TOC --><a name="abstract-classes-problem-statement"></a>
-### Abstract Classes 
+### 1. Abstract Classes 
 
 An abstract class in Java is a class that cannot be instantiated on its own and is meant to be subclassed. It can contain both abstract methods (without implementations) and concrete methods (with implementations), providing a common base for subclasses.
 
 **The problem statement for abstract classes in java can be found [here](https://www.hackerrank.com/contests/ooadj-lab-week-7/challenges/abstract-class-ooadj)**
 
 <!-- TOC --><a name="arraylists-problem-statement"></a>
-### ArrayLists 
+### 2. ArrayLists 
 
 ArrayList in Java is a resizable array implementation of the List interface that allows dynamic insertion, deletion, and access of elements. It stores elements in a contiguous block of memory and provides fast random access, but resizing can be costly.
 
 **The problem statement for array lists in java can be found [here](https://www.hackerrank.com/contests/ooadj-lab-week-7/challenges/arraylist-ooadj)**
 
 <!-- TOC --><a name="linked-lists-problem-statement"></a>
-### Linked Lists 
+### 3. Linked Lists 
 
 LinkedList in Java is a linear data structure that stores elements in nodes, where each node contains a reference to the next (and optionally previous) node. It allows efficient insertions and deletions at any position but slower random access compared to ArrayList.
 
 **The problem statement for linked lists in java can be found [here](https://www.hackerrank.com/contests/ooadj-lab-week-7/challenges/linked-list-ooadj)**
 
 <!-- TOC --><a name="stacks-problem-statement"></a>
-### Stacks 
+### 4. Stacks 
 
 A Stack in Java is a data structure that follows the Last-In-First-Out (LIFO) principle, where elements are added and removed from the top of the stack. Common operations include push (add), pop (remove), and peek (view the top element).
 
@@ -138,11 +127,11 @@ A Stack in Java is a data structure that follows the Last-In-First-Out (LIFO) pr
 ## Lab 8: Multithreading and Serialization
 
 <!-- TOC --><a name="multithreading-problem-statement"></a>
-### Multithreading
+### 1. Multithreading
 Multithreading in Java allows multiple threads to execute concurrently within a program, enabling parallelism and more efficient CPU utilization. It is commonly used to perform tasks like background processing, improving application responsiveness, and handling multiple tasks simultaneously.
 
 <!-- TOC --><a name="serialization-problem-statement"></a>
-### Serialization 
+### 2. Serialization 
 Serialization in Java is the process of converting an object into a byte stream, so it can be easily saved to a file or transmitted over a network. The reverse process, deserialization, reconstructs the object from the byte stream, allowing persistence and communication of object states across platforms.
 
 **The problem statement for multithreading and serialization in java can be found [here](/Lab 8)**
