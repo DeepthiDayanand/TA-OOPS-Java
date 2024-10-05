@@ -1,6 +1,6 @@
 # Coursework for Object Oriented Analysis and Design with Java
 
-This repository contains the courework I made as a Teaching Assistant for the 6th-semester course _Object-Oriented Analysis and Design with Java_ (UE21CS352B) in PES University.
+This repository contains the coursework I made as a Teaching Assistant for the 6th-semester course _Object-Oriented Analysis and Design with Java_ (UE21CS352B) in PES University.
 
 ## Course Structure:
 
