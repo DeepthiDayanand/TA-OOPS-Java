@@ -148,4 +148,4 @@ MVC (Model-View-Controller) architecture is a design pattern commonly used in so
 
 In Java, the MVC pattern is widely used in frameworks like Spring MVC and JavaFX to build web and desktop applications. The key advantage of MVC is that it promotes a clear separation of concerns, which enhances maintainability, scalability, and testability of the code.
 
-**The problem statement for the MVC mini project can be found [here](MVC Assignment.docx)**
+**The problem statement for the MVC mini project can be found [here](https://github.com/DeepthiDayanand/OOADJ_TA_Coursework/blob/master/MVC%20Assignment.docx)**
