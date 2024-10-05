@@ -25,14 +25,14 @@ This repository contains the courework I made as a Teaching Assistant for the 6t
 Use case modeling in Java is a technique used to capture and define the functional requirements of a system from the perspective of its users (actors). It describes the interactions between external entities (such as users or other systems) and the system to achieve a specific goal.
 Use case diagrams, which often accompany this modeling, visually represent these interactions using actors, use cases (actions performed by the system), and the relationships between them. This process helps guide the system design and development phases in Java applications by ensuring a clear understanding of user needs and system behaviors.
 
-**Problem statement and solution for use case modeling can be found [here](/Lab 1) **
+**Problem statement and solution for use case modeling can be found [here](https://github.com/DeepthiDayanand/OOADJ_TA_Coursework/tree/master/Lab%201)**
 
 <!-- TOC --><a name="lab-2-class-diagrams"></a>
 ## Class Diagrams
 
 Class diagrams in Java are a type of UML (Unified Modeling Language) diagram that visually represent the structure of a Java application by illustrating the classes, their attributes, methods, and the relationships between them. They help in the design and organization of object-oriented systems by providing a blueprint of how the system's classes are structured and how they interact.
 
-**Problem statement and solution for class diagram can be found [here](/Lab 2)**
+**Problem statement and solution for class diagram can be found [here](https://github.com/DeepthiDayanand/OOADJ_TA_Coursework/tree/master/Lab%202)**
 
 
 <!-- TOC --><a name="lab-3-activity-and-state-diagrams"></a>
@@ -134,7 +134,7 @@ Multithreading in Java allows multiple threads to execute concurrently within a 
 ### 2. Serialization 
 Serialization in Java is the process of converting an object into a byte stream, so it can be easily saved to a file or transmitted over a network. The reverse process, deserialization, reconstructs the object from the byte stream, allowing persistence and communication of object states across platforms.
 
-**The problem statement for multithreading and serialization in java can be found [here](/Lab 8)**
+**The problem statement for multithreading and serialization in java can be found [here](https://github.com/DeepthiDayanand/OOADJ_TA_Coursework/tree/master/Lab%208)**
 
 ## MVC Architecture
 
